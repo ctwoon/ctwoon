@@ -1,6 +1,6 @@
 ### Hello, my name is Nick 👋
 
-Maintainer of ![PixelExperience Project](https://download.pixelexperience.org/curtana), ![Catogram](https://play.google.com/store/apps/details?id=ua.itaysonlab.messenger) co-developer
+Maintainer of [PixelExperience Project](https://download.pixelexperience.org/curtana), [Catogram](https://play.google.com/store/apps/details?id=ua.itaysonlab.messenger) co-developer
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=ctwoon&style=flat-square" alt="ctwoon" /><br>
