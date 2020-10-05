@@ -1,12 +1,6 @@
-### Hello, my name is Nick 👋
+Программисты шалят 🤙🏻😈
+А че, айтишники тоже непрочь календулу с кралями раздуть) Вы не думайте, что это задроты😂👶🏼🏣 Они такую забивку намешают, что любая красотка офигеет 😳💨💋 Им только повод дай) А там уж и «Питона» своего покажут, да «СиСи++», если вы понимаете о чем я🤣👍🔞
 
-Maintainer of [PixelExperience Project](https://download.pixelexperience.org/curtana), [Catogram](https://play.google.com/store/apps/details?id=ua.itaysonlab.messenger) co-developer
+Кальянчик всех радует: и качков, и очкариков) Главное дуть с кайфом пацаны 👆🏻 И неважно, какой ты национальности ☺️
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=ctwoon&style=flat-square" alt="ctwoon" /><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ctwoon&show_icons=true&count_private=true&title_color=333&icon_color=333" alt="ctwoon" />
-
-<br>
-
-<!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
-
+<img align="center" src="https://i.imgur.com/53PVo7K.png" alt="ульба">
